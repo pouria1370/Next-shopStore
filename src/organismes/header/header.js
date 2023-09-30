@@ -4,15 +4,17 @@ import LoginRegistery from "@/atoms/Headers/registery_Header/LoginRegistery";
 import Logo_Header from "@/atoms/Headers/logo_Header/logo_Header";
 import SearchBox_Header from "@/atoms/Headers/searchBox_Header/searchBox_Header";
 import React from "react";
+import HamburgerBars from "@/atoms/Headers/HamburgerBars/HamburgerBars";
 
 const Header = () => {
   return<div className="border-b-2 pb-5">
     <div className=" relative  w-full justify-between flex px-2 py-2" dir="rtl">
       <div className="flex gap-2">
+        <HamburgerBars/>
         <Logo_Header />
         <SearchBox_Header />
       </div>
-      <div className="flex gap-2">
+      <div className="flex gap-4">
         <LoginRegistery />
         <Cart />
       </div>

@@ -6,7 +6,7 @@ import Link from 'next/link'
 
 const Cart = () => {
   return (
-    <Link href="/" className='border-2 px-2 h-[2.25rem]  flex items-center'>
+    <Link href="/" className='border-2 rounded-md px-2 h-[2.25rem]  flex items-center'>
 <FontAwesomeIcon icon={faCartShopping} className='text-black' />
     </Link>
   )
