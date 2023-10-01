@@ -20,20 +20,20 @@ export default function Footer() {
             <p className='text-xs pt-2 text-white'>تمام حقوق این سایت توسط شرکت الف محافظت می شود </p>
         </div>
         <div className='h-px  bg-white col-start-2 col-span-10 mt-5'/>
-        <div className='mt-5 col-start-2 col-span-1 flex-col flex gap-3 text-white' dir='rtl'>
+        <div className='mt-5 lg:col-start-2  col-start-2 lg:col-span-1  col-span-3 flex-col flex gap-3 text-white' dir='rtl'>
             <div className='font-medium text-sm'>قوانین و مقررات</div>
             <Link href="/" className='text-xs'>مقررات</Link>
             <Link href="/" className='text-xs'>حریم خصوصوی کاربران</Link>
             <Link href="/" className='text-xs'>کاربران الف</Link>
         </div>
-        <div className='mt-5 col-start-3 col-span-1 flex-col flex gap-3 text-white' dir='rtl'>
+        <div className='mt-5 lg:col-start-3  col-start-5 lg:col-span-1  col-span-3 flex-col flex gap-3 text-white' dir='rtl'>
             <div className='font-medium text-sm'>پس از خرید</div>
             <Link href="/" className='text-xs'>تضمین رجیستری</Link>
             <Link href="/" className='text-xs'>رویه های بازگرداندن کالا</Link>
             <Link href="/" className='text-xs'>سوالات متدداول رجیستری</Link>
             <Link href="/" className='text-xs'>رهگیری سفارش ها </Link>
         </div>
-        <div className='mt-5 col-start-4 col-span-1 flex-col flex gap-3 text-white' dir='rtl'>
+        <div className='mt-5 lg:col-start-4  col-start-8 lg:col-span-1  col-span-3 flex-col flex gap-3 text-white' dir='rtl'>
             <div className='font-medium text-sm'>پیش از خرید</div>
             <Link href="/" className='text-xs'>راهنمای خرید از تکنولایف</Link>
             <Link href="/" className='text-xs'>راهنمای خرید اقساطی</Link>
@@ -41,14 +41,14 @@ export default function Footer() {
             <Link href="/" className='text-xs'>ضمانت هفت روزه تکنولایف</Link>
             <Link href="/" className='text-xs'>شیوه ها و هزینه ارسال</Link>
         </div>
-        <div className='mt-5 col-start-5 col-span-1 flex-col flex gap-3 text-white' dir='rtl'>
+        <div className='mt-5 lg:col-start-5  col-start-2 lg:col-span-1  col-span-3 flex-col flex gap-3 text-white' dir='rtl'>
             <div className='font-medium text-sm'>درباره ما</div>
             <Link href="/" className='text-xs'>تکنولایف در یک نگاه</Link>
             <Link href="/" className='text-xs'>اهداف و تعهدات ما</Link>
             <Link href="/" className='text-xs'>سرگذشت تکنولایف</Link>
             <Link href="/" className='text-xs'>تماس با ما</Link>
         </div>
-        <div className='mt-5 col-start-6 col-span-1 flex-col flex gap-3 text-white' dir='rtl'>
+        <div className='mt-5 lg:col-start-6  col-start-5 lg:col-span-1  col-span-3 flex-col flex gap-3 text-white' dir='rtl'>
             <div className='font-medium text-sm'>دسترسی سریع</div>
             <Link href="/" className='text-xs'>بلاگ</Link>
             <Link href="/" className='text-xs'>قیمت روز گوشی</Link>
@@ -61,7 +61,7 @@ export default function Footer() {
             <Link href="/" className='text-xs'>قیمت لپتاپ</Link>
             <Link href="/" className='text-xs'>هندزفری بلوتوثی</Link>
         </div>
-        <div className='mt-5 col-start-7 col-span-1 flex-col flex gap-3 text-white' dir='rtl'>
+        <div className='mt-5 lg:col-start-7  col-start-8 lg:col-span-1  col-span-3 flex-col flex gap-3 text-white' dir='rtl'>
             <div className='font-medium text-sm'>پر فروش ترین محصولات</div>
             <Link href="/" className='text-xs'>شیائومی نوت 11</Link>
             <Link href="/" className='text-xs'>سامسونگ a32 گوشی</Link>
@@ -74,7 +74,7 @@ export default function Footer() {
             <Link href="/" className='text-xs'>هارد اکسترنال</Link>
             <Link href="/" className='text-xs'>پنکه</Link>
         </div>
-        <div className=' col-start-9 col-span-3 text-white text-sm mt-5' dir="rtl">
+        <div className=' lg:col-start-9 lg:col-span-3 col-start-5 col-span-6 text-white text-sm mt-5' dir="rtl">
             <p className='mb-5' >تلفن: 47708000-021 - 1077500-021 </p>
             <p className='whitespace-pre'>info@technolife.ir :email</p>
             <div className='flex flex-row gap-4 mt-3 items-start '>
@@ -92,25 +92,25 @@ export default function Footer() {
                 </Link>
             </div>
         </div>
-        <div className='col-start-2 flex gap-2'>
+        <div className='col-start-2 col-span-3 flex gap-2'>
         <Link href='/'>
         <div>
-            <Image  width={20} height={20} src={sabt}/>
+            <Image  className='aspect-square  ' src={sabt}/>
         </div>
         </Link>
         <Link href='/'>
         <div>
-            <Image width={20} height={20}  src={sanaye}/>
+            <Image className='aspect-square  '  src={sanaye}/>
         </div>
         </Link>
         <Link href='/'>
         <div>
-            <Image width={20} height={20}  src={mojavez}/>
+            <Image className='aspect-square  '  src={mojavez}/>
         </div>
         </Link>
         <Link href='/'>
         <div>
-            <Image  width={20} height={20} src={assurance}/>
+            <Image  className='aspect-square  ' src={assurance}/>
         </div>
         </Link>
         </div>

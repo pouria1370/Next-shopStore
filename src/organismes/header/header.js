@@ -8,13 +8,15 @@ import HamburgerBars from "@/atoms/Headers/HamburgerBars/HamburgerBars";
 
 const Header = () => {
   return<div className="border-b-2 pb-5">
-    <div className=" relative  w-full justify-between flex px-2 py-2" dir="rtl">
-      <div className="flex gap-2">
-        <HamburgerBars/>
+    <div className=" relative  w-full justify-between flex gap-6 px-2 py-2" dir="rtl">
+      <div className="flex lg:flex-row  flex-col gap-4 w-full">
+       <div className="flex  justify-between gap-2 px-1">
+       <HamburgerBars/>
         <Logo_Header />
+       </div>
         <SearchBox_Header />
       </div>
-      <div className="flex gap-4">
+      <div className="flex lg:flex-row  flex-col gap-4">
         <LoginRegistery />
         <Cart />
       </div>

@@ -21,7 +21,7 @@ const HamburgerBars = () => {
     <>
       <div
         onClick={() => setToggle(true)}
-        className="cursor-pointer h-[2.25rem] flex items-center justify-center p-2"
+        className="cursor-pointer h-[2.25rem] flex items-center justify-center "
       >
         <FontAwesomeIcon className="lg:hidden " icon={faBars} />
       </div>

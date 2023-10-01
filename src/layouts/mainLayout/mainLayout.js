@@ -6,6 +6,7 @@ const MainLayout = () => {
   return (
     <>
     <Header/>
+    
     <Footer/>
     </>
   )

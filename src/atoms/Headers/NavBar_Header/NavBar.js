@@ -32,7 +32,7 @@ const NavBar = () => {
           onMouseLeave={() => setToggle(false)}
         >
           <div className="relative flex h-full items-center">
-            <span className="h-full cursor-default px-3 pb-4 text-[13px] font-semiBold 3xl:px-[21px] 3xl:text-sm ">
+            <span className="h-full cursor-default pb-2  ">
               {item.group}
             </span>
             <FlyoutNav items={item.items} />
