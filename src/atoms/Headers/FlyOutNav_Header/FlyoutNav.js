@@ -11,7 +11,7 @@ const FlyoutNav = ({ items }) => {
   }, []);
 
   return (
-    <div className="flex w-[500px] h-96  invisible opacity-0 absolute -right-7 top-5 z-50 rounded-2xl bg-red-200 shadow-1600 group-hover:opacity-100 group-hover:visible">
+    <div className="flex w-[500px] h-96  invisible opacity-0 font-vazir absolute -right-7 top-5 z-50 rounded-2xl bg-light shadow-1600 group-hover:opacity-100 group-hover:visible">
       <div
         className="flex flex-col w-2/5   items-start justify-around"
         dir="rtl"
@@ -31,12 +31,12 @@ const FlyoutNav = ({ items }) => {
       </div>
       {items.map((item, indexio) =>
         indexio === indexActive ? (
-          <div className=" flex flex-col flex-wrap font-bold text-xs justify-items-center item-center bg-sky-200 p-2 w-3/5">
+          <div className=" flex flex-col font-vazir flex-wrap font-bold text-xs justify-items-center item-center bg-info p-2 w-3/5">
             {item.children.map((item, index) => (
               <Link
                 href="/"
                 key={index + item}
-                className="text-gray-500 my-1 cursor-pointer"
+                className="text-smoky my-1 cursor-pointer"
               >
                 <p>{`${item} ${indexio}`}</p>
               </Link>

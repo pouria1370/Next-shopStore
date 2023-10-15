@@ -27,7 +27,7 @@ const NavBar = () => {
       {FlyoutNavData.map((item, index) => (
         <li
           key={index + "flyoutNav"}
-          className={toggle ? "text-xs list-none group" : "text-xs list-none"}
+          className={toggle ? "text-xs font-vazir list-none group" : "text-xs font-vazir list-none"}
           onMouseEnter={() => setToggle(true)}
           onMouseLeave={() => setToggle(false)}
         >

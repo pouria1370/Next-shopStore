@@ -7,10 +7,10 @@ const SearchBox_Header = () => {
     const [searchValue, setSearchValue] = useState("")
   return (
     <div className='lg:w-[29rem] relative w-full '>
-        {focused ? <div onClick={() => setFocused(false)} className='fixed  bg-black bg-opacity-20 z-20 opacity-100 w-full inset-0 h-screen'/> : null}   
+        {focused ? <div onClick={() => setFocused(false)} className='fixed  bg-dark bg-opacity-20 z-20 opacity-100 w-full inset-0 h-screen'/> : null}   
        <div className='flex justify-start items-center border-1 bg-gray-200 rounded-lg pr-3 z-30 relative focus-within:bg-white'>
-          <FontAwesomeIcon icon={faMagnifyingGlass} className='text-gray-400 z-30 '/>
-           <input id='header__searchInput' className=' placeholder:text-gray-400 placeholder:invisible md:placeholder:visible caret-gray-400 relative text-xs bg-transparent border-none w-full h-[2.25rem] px-2 focus:outline-none z-30'
+          <FontAwesomeIcon icon={faMagnifyingGlass} className='text-smoky opacity-40 z-30 '/>
+           <input id='header__searchInput' className=' placeholder:text-gray-400 font-vazir placeholder:invisible md:placeholder:visible caret-gray-400 relative text-xs bg-transparent border-none w-full h-[2.25rem] px-2 focus:outline-none z-30'
                onClick={() => setFocused(true)} type='search' placeholder='محصول,برند یا دسته مورد نظرتان را جستجو کنید'/>
           <FontAwesomeIcon id='cancel-button' icon={faCircleXmark} className='text-gray-500 absolute left-3 z-30  '/>
        </div>

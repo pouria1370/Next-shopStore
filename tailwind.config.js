@@ -1,3 +1,4 @@
+import colors from 'tailwindcss/colors'
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -17,13 +18,35 @@ module.exports = {
     },
     fontSize: {
       xs: '0.6rem',
-      sm: '0.8rem',
+      sm: '0.7rem',
       base: '1rem',
       xl: '1.25rem',
       '2xl': '1.563rem',
       '3xl': '1.953rem',
       '4xl': '2.441rem',
       '5xl': '3.052rem',
+    },
+    fontFamily: {
+      'sans': ['ui-sans-serif', 'system-ui'],
+      'serif': ['ui-serif', 'Georgia'],
+      'mono': ['ui-monospace', 'SFMono-Regular'],
+      'display': ['Oswald'],
+      'body': ['Open Sans'],
+      "vazir":['vazir-matn'],
+      "vazir-adad":['vazir-adad'],
+    },
+    colors: {
+      dark: '#0F0F0F',
+      smoky: "#232D3F",
+      success: "#005B41",
+      gray: "#EEEEEE",
+      primary:'#614BC3',
+      secondary:'#33BBC5',
+      info:"#0079FF",
+      danger:"#CD1818",
+      text:"#374259",
+      light:"#E8F6EF",
+      white:colors.white
     }
   },
   plugins: [],
