@@ -1,163 +1,99 @@
-import imageDta from '../assets/images/HeaderBanner.jpg' 
+import imageDta from "../assets/images/HeaderBanner.jpg";
 export const sideBarData = [
-    {
-      text: "pouria",
-      children: [
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-      ],
-    },
-    {
-      text: "pouria",
-      children: [
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-      ],
-    },
-    {
-      text: "pouria",
-      children: [
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-      ],
-    },
-    {
-      text: "pouria",
-      children: [
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-        {
-          text: "pouria2",
-          children: [
-            { text: "link1" },
-            { text: "link1" },
-            { text: "link1" },
-          ],
-        },
-      ],
-    },
-  ]
+  {
+    text: "pouria",
+    children: [
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+    ],
+  },
+  {
+    text: "pouria",
+    children: [
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+    ],
+  },
+  {
+    text: "pouria",
+    children: [
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+    ],
+  },
+  {
+    text: "pouria",
+    children: [
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+      {
+        text: "pouria2",
+        children: [{ text: "link1" }, { text: "link1" }, { text: "link1" }],
+      },
+    ],
+  },
+];
 
 export const FlyoutNavData = [
   {
     group: "موبایل و تبلت",
     items: [
       {
-        active:true,
+        active: true,
         text: "موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -185,7 +121,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "قطعات موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -213,7 +149,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "تبلت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -241,7 +177,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس عملکرد",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -269,7 +205,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس قیمت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -300,9 +236,9 @@ export const FlyoutNavData = [
     group: "لوازم جانبی",
     items: [
       {
-        active:true,
+        active: true,
         text: "موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -330,7 +266,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "قطعات موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -358,7 +294,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "تبلت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -386,7 +322,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس عملکرد",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -414,7 +350,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس قیمت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -445,9 +381,9 @@ export const FlyoutNavData = [
     group: "ساعت و بند هوشمند",
     items: [
       {
-        active:true,
+        active: true,
         text: "موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -475,7 +411,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "قطعات موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -503,7 +439,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "تبلت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -531,7 +467,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس عملکرد",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -559,7 +495,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس قیمت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -590,9 +526,9 @@ export const FlyoutNavData = [
     group: "هدفون و هندزفری",
     items: [
       {
-        active:true,
+        active: true,
         text: "موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -620,7 +556,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "قطعات موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -648,7 +584,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "تبلت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -676,7 +612,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس عملکرد",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -704,7 +640,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس قیمت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -735,9 +671,9 @@ export const FlyoutNavData = [
     group: "لپتاپ",
     items: [
       {
-        active:true,
+        active: true,
         text: "موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -765,7 +701,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "قطعات موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -793,7 +729,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "تبلت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -821,7 +757,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس عملکرد",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -849,7 +785,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس قیمت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -880,9 +816,9 @@ export const FlyoutNavData = [
     group: "کامپیوتر و شبکه",
     items: [
       {
-        active:true,
+        active: true,
         text: "موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -910,7 +846,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "قطعات موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -938,7 +874,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "تبلت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -966,7 +902,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس عملکرد",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -994,7 +930,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس قیمت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1025,9 +961,9 @@ export const FlyoutNavData = [
     group: "ماشنی های اداری",
     items: [
       {
-        active:true,
+        active: true,
         text: "موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1055,7 +991,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "قطعات موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1083,7 +1019,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "تبلت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1111,7 +1047,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس عملکرد",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1139,7 +1075,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس قیمت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1170,9 +1106,9 @@ export const FlyoutNavData = [
     group: "گیمینگ",
     items: [
       {
-        active:true,
+        active: true,
         text: "موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1200,7 +1136,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "قطعات موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1228,7 +1164,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "تبلت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1256,7 +1192,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس عملکرد",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1284,7 +1220,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس قیمت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1315,9 +1251,9 @@ export const FlyoutNavData = [
     group: "صوتی و تصویری",
     items: [
       {
-        active:true,
+        active: true,
         text: "موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1345,7 +1281,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "قطعات موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1373,7 +1309,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "تبلت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1401,7 +1337,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس عملکرد",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1429,7 +1365,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس قیمت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1460,9 +1396,9 @@ export const FlyoutNavData = [
     group: "لوازم حونگی",
     items: [
       {
-        active:true,
+        active: true,
         text: "موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1490,7 +1426,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "قطعات موبایل",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1518,7 +1454,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "تبلت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1546,7 +1482,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس عملکرد",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1574,7 +1510,7 @@ export const FlyoutNavData = [
       {
         active: false,
         text: "گوشی بر اساس قیمت",
-        source:imageDta,
+        source: imageDta,
         children: [
           "گوشی اپل",
           "گوشی سامسونگ",
@@ -1602,3 +1538,52 @@ export const FlyoutNavData = [
     ],
   },
 ];
+
+export const ListpageUpperAccess = [
+  {
+    text: "تکنو لایف",
+    address: "/",
+  },
+  {
+    text: "گوشی",
+    address: "/",
+  },
+  {
+    text: "سامسونگ",
+    address: "/",
+  },
+];
+export const SampleListProduct = {
+  filters: [
+    {
+      type: "bool",
+      text: "ایا بیسیم دارد",
+      options: ["دارد", "ندارد"],
+    },
+    {
+      type: "bool",
+      text: "باتری",
+      options: ["دارد", "ندارد"],
+    },
+    {
+      type: "text",
+      text: "brands",
+      options: [
+        "Toshiba",
+        "sony",
+        "LG",
+        "Panasonic",
+        "Hitachi",
+        "Toyota",
+        "Honda",
+        "Maxco",
+        "Lmila",
+      ],
+    },
+    {
+      type:"range",
+      text:"قیمت",
+      options:["2000000","10000000"]
+    }
+  ],
+};

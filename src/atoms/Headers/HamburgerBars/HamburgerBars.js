@@ -6,6 +6,7 @@ import ListBox from '@/atoms/Generals/listBox_General/ListBox';
 import {sideBarData} from '@/data/data';
 const HamburgerBars = () => {
     const [toggle, setToggle] = useState(false)
+    
     useEffect(() => {
       const sizeHandler = () => {
         if (window.innerWidth > 1023) setToggle(false);

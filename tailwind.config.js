@@ -39,7 +39,7 @@ module.exports = {
       dark: '#0F0F0F',
       smoky: "#232D3F",
       success: "#005B41",
-      gray: "#EEEEEE",
+      gray: "#7D7C7C",
       primary:'#614BC3',
       secondary:'#33BBC5',
       info:"#0079FF",

@@ -6,17 +6,17 @@ import GeneralInput from "../Generals/input_General/Input_Genral";
 
 const LoginForm_Login = () => {
   return (
-      <form className=" flex flex-col justify-around h-full items-center ">
+      <form className=" flex flex-col justify-center gap-16 lg:justify-around h-full items-center ">
         <Logo_Header/>
         <div className="flex flex-col justify-center items-center">
-        <h4 className="font-vazir whitespace-pre">ورود  |  ثبت نام</h4>
-        <h6 className="font-vazir text-sm">خوش امدی</h6>
+        <h4 className="font-vazir text-light whitespace-pre lg:[&&]:text-text">ورود  |  ثبت نام</h4>
+        <h6 className="font-vazir text-light text-sm lg:[&&]:text-text">خوش امدی</h6>
         </div>
         <div className="w-3/4">
         <GeneralInput name="account" type="text" label="شماره خود را وارد کنید"/>
         </div>
         <GeneralButton text="ادامه" size="md"/>
-        <small className="font-vazir text-xs" >ثبت نام به معنای پذیرش <Link href="/" className="text-sm text-info">قوانین</Link> شرکت الف است </small>
+        <small className="font-vazir text-xs text-light whitespace-pre lg:[&&]:text-text" >ثبت نام به معنای پذیرش <Link href="/" className="text-sm text-info">قوانین</Link> شرکت الف است </small>
       </form>
   );
 };

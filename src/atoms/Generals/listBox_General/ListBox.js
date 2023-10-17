@@ -5,12 +5,12 @@ import Link from "next/link";
 const ListBox = ({ textButton, listItems , actived }) => {
     const [toggle, setToggle] = useState(false);
   return (
-    <div className={actived ? "px-2 bg-sky-100 bg-opacity-60" : "px-2"}>
+    <div className={actived ? "px-2 bg-info bg-opacity-20" : "px-2"}>
       <div onClick={() => setToggle(prevState=> !prevState)} className="  cursor-pointer flex w-full items-center justify-between p-2" dir="rtl">
-        <div className=" text-sm text-gray-700">
+        <div className=" text-sm font-vazir text-text">
           <p>{textButton}</p>
         </div>
-        <div className=" text-sm text-gray-700" >
+        <div className=" text-sm font-vazir text-text" >
         {!toggle ?<FontAwesomeIcon size="sm" icon={faAngleDown} /> : <FontAwesomeIcon size="sm" icon={faAngleUp}/>}
         </div>
       </div>
