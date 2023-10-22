@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-function GeneralInput({ type, name, label }) {
+function GeneralInput({ type, name, label,inputClassName,contaienrClassName,inputProps }) {
     const [active, setActive] = useState(false);
     const [focused, setFocused] = useState(false)
   
@@ -11,11 +11,11 @@ function GeneralInput({ type, name, label }) {
     return (
         <div  
         dir='rtl'
-        className={["relative border mx-auto w-1/2 flex flex-row items-center justify-center lg:[&&]:w-full rounded mb-2 text-white border-primary border-opacity-20", focused ? " [&&]:border-opacity-100" : ""].join(" ")}>
+        className={["relative border mx-auto w-1/2 flex flex-row items-center justify-center lg:[&&]:w-full rounded mb-2 text-white border-primary border-opacity-20", focused ? " [&&]:border-opacity-100" : "",contaienrClassName ? contaienrClassName : ""].join(" ")}>
         <input
           className={[
             "outline-none  text-text bg-white  w-full font-vazir-adad rounded bg-transparent text-sm transition-all duration-200 ease-in-out p-2",
-            active ? "pt-8" : ""
+            active ? "pt-8" : "",inputClassName ? inputClassName : ""
           ].join(" ")}
           id={name}
           name={name}
@@ -23,6 +23,7 @@ function GeneralInput({ type, name, label }) {
           onChange={handleActivation}
           onFocus={() => setFocused(true)}
           onBlur={() => setFocused(false)}
+          {...inputProps}
         />
         <label
           className={[
