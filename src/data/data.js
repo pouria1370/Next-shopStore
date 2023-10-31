@@ -1,4 +1,20 @@
+import Image from "next/image";
 import imageDta from "../assets/images/HeaderBanner.jpg";
+import product1 from "../assets/images/products/1.avif"
+import product2 from "../assets/images/products/2.avif"
+import product3 from "../assets/images/products/3.avif"
+import product4 from "../assets/images/products/4.avif"
+import product5 from "../assets/images/products/5.avif"
+import product6 from "../assets/images/products/6.avif"
+import product7 from "../assets/images/products/7.avif"
+import product8 from "../assets/images/products/8.avif"
+import product9 from "../assets/images/products/9.avif"
+import product10 from "../assets/images/products/10.avif"
+import product11 from "../assets/images/products/11.avif"
+import product12 from "../assets/images/products/12.avif"
+import product13 from "../assets/images/products/13.avif"
+import product14 from "../assets/images/products/14.avif"
+import product15 from "../assets/images/products/15.avif"
 export const sideBarData = [
   {
     text: "pouria",
@@ -1582,8 +1598,182 @@ export const SampleListProduct = {
     },
     {
       type:"range",
-      text:"قیمت",
-      options:["2000000","10000000"]
+      text:"فیلتر بر اساس قیمت",
+      options:["20000000","1000000"]
     }
   ],
+  products:[
+    {
+      number:20,
+      colors:['#3D30A2',"#B15EFF","#FFA33C","#FFFB73"],
+      currentPrice:"2000000",
+      fav:'3',
+      off:'2%',
+      name:"product first 2023 TSX23",
+      image: <Image alt="product1"  className="w-full h-full" src={product1}/>
+    },
+    {
+      number:1,
+      colors:['#3D30A2',"#B15EFF","#FFA33C","#FFFB73"],
+      currentPrice:"2000000",
+      fav:'2.5',
+      off:'3%',
+      name:"product second 2023 TSX23",
+      image: <Image alt="product2"  className="w-full h-full" src={product2}/>
+    },
+    {
+      number:12,
+      colors:['#FCF5ED',"#F4BF96","#CE5A67","#1F1717"],
+      currentPrice:"2000000",
+      fav:'2',
+      off:'6%',
+      name:"product third 2023 TSX23",
+      image: <Image alt="product3"  className="w-full h-full" src={product3}/>
+    },
+    {
+      number:14,
+      colors:['#00A9FF',"#B15EFF","#F875AA","#FFFB73"],
+      currentPrice:"2000000",
+      fav:'4.5',
+      off:'2%',
+      name:"product fouth 2023 TSX23",
+      image: <Image alt="product4"  className="w-full h-full" src={product4}/>
+    },
+    {
+      number:4,
+      colors:['#3D30A2',"#190482","#4F4A45","#ED7D31"],
+      currentPrice:"2000000",
+      name:"product fifth 2023 TSX23",
+      image: <Image alt="product5"  className="w-full h-full" src={product5}/>
+    },
+    {
+      number:0,
+      colors:['#3D30A2',"#B15EFF","#FFA33C","#FFFB73"],
+      currentPrice:"8000000",
+      name:"product sixth 2023 TSX23",
+      image: <Image alt="product6"  className="w-full h-full" src={product6}/>
+    },
+    {
+      number:0,
+      colors:['#F9B572',"#F9B572","#45474B"],
+      currentPrice:"2000000",
+      fav:'5',
+      off:'10%',
+      name:"product first 2023 TSX23",
+      image: <Image alt="product7"  className="w-full h-full" src={product7}/>
+    },
+    {
+      number:0,
+      colors:['#3D30A2'],
+      currentPrice:"2000000",
+      name:"product first 2023 TSX23",
+      image: <Image alt="product8"  className="w-full h-full" src={product8}/>
+    },
+    {
+      number:20,
+      colors:['#3D30A2',"#B15EFF"],
+      currentPrice:"2000000",
+      fav:'1.5',
+      off:'2%',
+      name:"product ninth 2023 TSX23",
+      image: <Image alt="product9"  className="w-full h-full" src={product9}/>
+    },
+    {
+      number:20,
+      colors:['#3D30A2',"#B15EFF","#FFA33C","#FFFB73"],
+      currentPrice:"2000000",
+      fav:'2.5',
+      off:'2%',
+      name:"product eighth 2023 TSX23",
+      image: <Image alt="product8"  className="w-full h-full" src={product8}/>
+    },
+    {
+      number:20,
+      colors:['#3D30A2',"#495E57","#363062","#072541"],
+      currentPrice:"2000000",
+      fav:'2.5',
+      off:'5%',
+      name:"product tenth 2023 TSX23",
+      image: <Image alt="product10"  className="w-full h-full" src={product10}/>
+    },
+    {
+      number:20,
+      colors:['#FF4B91',"#5D12D2","#B931FC","#FFFB73"],
+      currentPrice:"2000000",
+      fav:'2.5',
+      off:'2%',
+      name:"product elf 2023 TSX23",
+      image: <Image alt="product11"  className="w-full h-full" src={product11}/>
+    },
+    {
+      number:20,
+      colors:['#3D30A2',"#D83F31","#F4E869","#EE9322"],
+      currentPrice:"2000000",
+      fav:'2.5',
+      off:'7%',
+      name:"product twolf 2023 TSX23",
+      image: <Image alt="product12"  className="w-full h-full" src={product12}/>
+    },
+    {
+      number:20,
+      colors:['#3D30A2',"#EC53B0","#EE9322","#FFFB73"],
+      currentPrice:"6000000",
+      name:"product thirteen 2023 TSX23",
+      image: <Image alt="product13"  className="w-full h-full" src={product13}/>
+    },
+    {
+      number:20,
+      colors:['#3D30A2',"#B15EFF","#FFA33C","#FFFB73"],
+      currentPrice:"2000000",
+      fav:'2.5',
+      off:'5.5%',
+      name:"product fourtheen 2023 TSX23",
+      image: <Image alt="product14"  className="w-full h-full" src={product14}/>
+    },
+    {
+      number:20,
+      colors:['#3D30A2',"#9F91CC","#FFA33C","#FFFB73"],
+      currentPrice:"2000000",
+      fav:'2.5',
+      off:'2.4%',
+      name:"product fiftheen 2023 TSX23",
+      image: <Image alt="product15"  className="w-full h-full" src={product15}/>
+    },
+    {
+      number:0,
+      colors:['#3D30A2',"#B15EFF","#FFA33C","#FFFB73"],
+      currentPrice:"2000000",
+      fav:'2.5',
+      off:'2%',
+      name:"product first 2023 TSX23",
+      image: <Image alt="product1"  className="w-full h-full" src={product1}/>
+    },
+    {
+      number:0,
+      colors:['#3D30A2',"#B15EFF","#FFA33C","#FFFB73"],
+      currentPrice:"2000000",
+      fav:'2.5',
+      off:'2%',
+      name:"product first 2023 TSX23",
+      image: <Image alt="product1"  className="w-full h-full" src={product1}/>
+    },
+    {
+      number:20,
+      colors:['#3D30A2',"#B15EFF","#FFA33C","#FFFB73"],
+      currentPrice:"2000000",
+      fav:'2.5',
+      off:'2%',
+      name:"product first 2023 TSX23",
+      image: <Image alt="product1"  className="w-full h-full" src={product1}/>
+    },
+    {
+      number:20,
+      colors:['#3D30A2',"#B15EFF","#FFA33C","#FFFB73"],
+      currentPrice:"2000000",
+      fav:'2.5',
+      off:'2%',
+      name:"product first 2023 TSX23",
+      image: <Image alt="product1"  className="w-full h-full" src={product1}/>
+    },
+  ]
 };

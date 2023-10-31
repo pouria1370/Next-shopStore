@@ -45,6 +45,7 @@ module.exports = {
       info:"#0079FF",
       danger:"#CD1818",
       text:"#374259",
+      warning:"#FF9130",
       light:"#E8F6EF",
       white:colors.white
     }
