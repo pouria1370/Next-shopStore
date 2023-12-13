@@ -1605,6 +1605,11 @@ export const SampleListProduct = {
   ],
   products: [
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1629,6 +1634,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1653,6 +1663,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1677,6 +1692,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1701,6 +1721,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1723,6 +1748,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1745,6 +1775,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1769,6 +1804,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1791,6 +1831,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1815,6 +1860,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1839,6 +1889,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1865,6 +1920,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1891,6 +1951,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1917,6 +1982,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1941,6 +2011,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1967,6 +2042,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -1993,6 +2073,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2017,6 +2102,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2041,6 +2131,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2065,6 +2160,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2089,6 +2189,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2113,6 +2218,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2137,6 +2247,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2161,6 +2276,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2185,6 +2305,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2207,6 +2332,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2229,6 +2359,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2253,6 +2388,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2275,6 +2415,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2299,6 +2444,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2323,6 +2473,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2349,6 +2504,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2375,6 +2535,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2401,6 +2566,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2425,6 +2595,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2451,6 +2626,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2477,6 +2657,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2501,6 +2686,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2525,6 +2715,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2549,6 +2744,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2573,6 +2773,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2597,6 +2802,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2621,6 +2831,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2645,6 +2860,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2669,6 +2889,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2691,6 +2916,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2713,6 +2943,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2737,6 +2972,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2759,6 +2999,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2783,6 +3028,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2807,6 +3057,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2833,6 +3088,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2859,6 +3119,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2885,6 +3150,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2909,6 +3179,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2935,6 +3210,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2961,6 +3241,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -2985,6 +3270,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3009,6 +3299,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3033,6 +3328,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3057,6 +3357,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3081,6 +3386,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3105,6 +3415,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3129,6 +3444,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3153,6 +3473,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3175,6 +3500,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3197,6 +3527,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3221,6 +3556,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3243,6 +3583,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3267,6 +3612,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3291,6 +3641,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3317,6 +3672,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3343,6 +3703,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3369,6 +3734,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3393,6 +3763,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3419,6 +3794,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3445,6 +3825,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3469,6 +3854,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3493,6 +3883,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3517,6 +3912,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3541,6 +3941,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3565,6 +3970,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3589,6 +3999,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3613,6 +4028,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3637,6 +4057,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3659,6 +4084,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3681,6 +4111,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3705,6 +4140,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3727,6 +4167,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3751,6 +4196,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3775,6 +4225,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3801,6 +4256,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3827,6 +4287,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3853,6 +4318,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3877,6 +4347,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3903,6 +4378,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3929,6 +4409,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3953,6 +4438,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -3977,6 +4467,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4001,6 +4496,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4025,6 +4525,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4049,6 +4554,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4073,6 +4583,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4097,6 +4612,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4121,6 +4641,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4143,6 +4668,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4165,6 +4695,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4189,6 +4724,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4211,6 +4751,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4235,6 +4780,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4259,6 +4809,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4285,6 +4840,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4311,6 +4871,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4337,6 +4902,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4361,6 +4931,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4387,6 +4962,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4413,6 +4993,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4437,6 +5022,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4461,6 +5051,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4485,6 +5080,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4509,6 +5109,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4533,6 +5138,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4557,6 +5167,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4581,6 +5196,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4605,6 +5225,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4627,6 +5252,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4649,6 +5279,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4673,6 +5308,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4695,6 +5335,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4719,6 +5364,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4743,6 +5393,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4769,6 +5424,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4795,6 +5455,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4821,6 +5486,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4845,6 +5515,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4871,6 +5546,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4897,6 +5577,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4921,6 +5606,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4945,6 +5635,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4969,6 +5664,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -4993,6 +5693,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5017,6 +5722,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5041,6 +5751,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5065,6 +5780,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5089,6 +5809,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5111,6 +5836,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5133,6 +5863,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5157,6 +5892,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5179,6 +5919,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5203,6 +5948,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5227,6 +5977,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5253,6 +6008,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5279,6 +6039,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5305,6 +6070,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5329,6 +6099,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5355,6 +6130,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5381,6 +6161,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5405,6 +6190,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5429,6 +6219,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5453,6 +6248,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5477,6 +6277,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5501,6 +6306,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5525,6 +6335,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5549,6 +6364,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5573,6 +6393,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5595,6 +6420,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5617,6 +6447,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5641,6 +6476,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5663,6 +6503,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5687,6 +6532,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5711,6 +6561,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5737,6 +6592,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5763,6 +6623,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5789,6 +6654,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5813,6 +6683,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5839,6 +6714,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5865,6 +6745,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5889,6 +6774,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5913,6 +6803,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5937,6 +6832,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5961,6 +6861,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -5985,6 +6890,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6009,6 +6919,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6033,6 +6948,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6057,6 +6977,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6079,6 +7004,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6101,6 +7031,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6125,6 +7060,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6147,6 +7087,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6171,6 +7116,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6195,6 +7145,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6221,6 +7176,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6247,6 +7207,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6273,6 +7238,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6297,6 +7267,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6323,6 +7298,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6349,6 +7329,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6373,6 +7358,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6397,6 +7387,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6421,6 +7416,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6445,6 +7445,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6469,6 +7474,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6493,6 +7503,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6517,6 +7532,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6541,6 +7561,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6563,6 +7588,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6585,6 +7615,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6609,6 +7644,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6631,6 +7671,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6655,6 +7700,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6679,6 +7729,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6705,6 +7760,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6731,6 +7791,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6757,6 +7822,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6781,6 +7851,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6807,6 +7882,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6833,6 +7913,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6857,6 +7942,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6881,6 +7971,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6905,6 +8000,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6929,6 +8029,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6953,6 +8058,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -6977,6 +8087,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7001,6 +8116,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7025,6 +8145,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7047,6 +8172,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7069,6 +8199,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7093,6 +8228,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7115,6 +8255,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7139,6 +8284,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7163,6 +8313,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7189,6 +8344,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7215,6 +8375,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7241,6 +8406,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7265,6 +8435,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7291,6 +8466,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7317,6 +8497,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7341,6 +8526,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7365,6 +8555,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7389,6 +8584,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7413,6 +8613,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7437,6 +8642,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7461,6 +8671,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7485,6 +8700,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7509,6 +8729,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7531,6 +8756,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7553,6 +8783,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7577,6 +8812,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7599,6 +8839,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7623,6 +8868,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7647,6 +8897,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7673,6 +8928,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7699,6 +8959,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7725,6 +8990,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7749,6 +9019,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7775,6 +9050,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7801,6 +9081,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7825,6 +9110,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7849,6 +9139,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7873,6 +9168,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7897,6 +9197,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7921,6 +9226,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7945,6 +9255,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7969,6 +9284,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -7993,6 +9313,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8015,6 +9340,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8037,6 +9367,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8061,6 +9396,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8083,6 +9423,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8107,6 +9452,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8131,6 +9481,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8157,6 +9512,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8183,6 +9543,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8209,6 +9574,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8233,6 +9603,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8259,6 +9634,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8285,6 +9665,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8309,6 +9694,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8333,6 +9723,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8357,6 +9752,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8381,6 +9781,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8405,6 +9810,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8429,6 +9839,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8453,6 +9868,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8477,6 +9897,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8499,6 +9924,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8521,6 +9951,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8545,6 +9980,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8567,6 +10007,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8591,6 +10036,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8615,6 +10065,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8641,6 +10096,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8667,6 +10127,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8693,6 +10158,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8717,6 +10187,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8743,6 +10218,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8769,6 +10249,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8793,6 +10278,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8817,6 +10307,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8841,6 +10336,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8865,6 +10365,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8889,6 +10394,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8913,6 +10423,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8937,6 +10452,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8961,6 +10481,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -8983,6 +10508,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9005,6 +10535,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9029,6 +10564,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9051,6 +10591,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9075,6 +10620,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9099,6 +10649,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9125,6 +10680,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9151,6 +10711,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9177,6 +10742,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9201,6 +10771,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9227,6 +10802,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9253,6 +10833,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9277,6 +10862,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9301,6 +10891,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9325,6 +10920,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9349,6 +10949,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9373,6 +10978,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9397,6 +11007,11 @@ export const SampleListProduct = {
       image: <Image alt="product2" className="w-full h-full" src={product2} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9421,6 +11036,11 @@ export const SampleListProduct = {
       image: <Image alt="product3" className="w-full h-full" src={product3} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9445,6 +11065,11 @@ export const SampleListProduct = {
       image: <Image alt="product4" className="w-full h-full" src={product4} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9467,6 +11092,11 @@ export const SampleListProduct = {
       image: <Image alt="product5" className="w-full h-full" src={product5} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9489,6 +11119,11 @@ export const SampleListProduct = {
       image: <Image alt="product6" className="w-full h-full" src={product6} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9513,6 +11148,11 @@ export const SampleListProduct = {
       image: <Image alt="product7" className="w-full h-full" src={product7} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9535,6 +11175,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9559,6 +11204,11 @@ export const SampleListProduct = {
       image: <Image alt="product9" className="w-full h-full" src={product9} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9583,6 +11233,11 @@ export const SampleListProduct = {
       image: <Image alt="product8" className="w-full h-full" src={product8} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9609,6 +11264,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9635,6 +11295,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9661,6 +11326,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9685,6 +11355,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9711,6 +11386,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9737,6 +11417,11 @@ export const SampleListProduct = {
       ),
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9761,6 +11446,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9785,6 +11475,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
@@ -9809,6 +11504,11 @@ export const SampleListProduct = {
       image: <Image alt="product1" className="w-full h-full" src={product1} />,
     },
     {
+      texts:{
+        textShop:"در شرکت الف موجود است",
+        textWarehouse:"کالای شما به تعداد 23 عدد موجود است",
+        textAward:"20 ماه گارانتی شرکت حامی"
+      },
       upperAccess: [
         {
           text: "لینک اول",
