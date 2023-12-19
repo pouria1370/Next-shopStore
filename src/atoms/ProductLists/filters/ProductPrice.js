@@ -1,40 +1,9 @@
+import { turnToPrice } from '@/utilities/utility';
 import React from 'react'
 
 const ProductPrice= ({price,off}) => {
 
-  const turnToPrice = (priceii,offii) => {
-    let priceNumber = +priceii;
-    priceNumber = offii ?  priceNumber - ((+(offii.slice(0,-1))) * priceNumber )/ 100 : priceNumber;
-    let turnedOverprice = '' ; 
-    let u = 0 ; 
-    while(priceNumber > 1000)
-    {
-      u = u + 1;
-      priceNumber = priceNumber/1000 
-    }
-    if ((priceNumber * 10) % 10 == 0) {
-      for (let index = 0; index <= u; index++) {
-        turnedOverprice = !turnedOverprice
-          ? priceNumber + ","
-          : index === u
-          ? turnedOverprice + "000"
-          : turnedOverprice + "000,";
-      }
-    }
-    if ((priceNumber * 10) % 10 != 0) {
-      for (let index = 0; index < u; index++) {
-        turnedOverprice = !turnedOverprice
-          ? Math.floor((priceNumber * 1000) / 1000) +
-            "," +
-            ((priceNumber * 1000) % 1000) +
-            ","
-          : index === u - 1
-          ? turnedOverprice + "000"
-          : turnedOverprice + "000,";
-      }
-    }
-  return turnedOverprice
-  }
+ 
   return (
     <div className="w-full mt-1 " dir="ltr">
       {off ? (

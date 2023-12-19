@@ -4,6 +4,9 @@ import UpperFastAccess from "@/organismes/ProductLists/UpperFastAccess/UpperFast
 import { useRouter } from "next/router";
 import { SampleListProduct } from "@/data/data";
 import BuyCard from "@/organismes/product/BuyCard/BuyCard";
+import IconBadge from "@/atoms/Product/iconBadge/IconBadge";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faBell, faComment, faHeart, faRing, faShare, faShop, faWeightScale } from "@fortawesome/free-solid-svg-icons";
 
 const ProductPage = () => {
   const [itemKey, setItemKey] = useState()
@@ -15,15 +18,27 @@ const ProductPage = () => {
   console.log(itemKey);
   return (
     <MainLayout>
-     {/* {itemKey && <div>
+     {itemKey && 
+     <React.Fragment>
+     <div>
        <UpperFastAccess links={itemKey.upperAccess}/>
       </div>
-      <div className="flex flex-row bg-primary">
-        <div className="">
-          <BuyCard texts={itemKey.texts}/>
+      <div className="flex flex-row">
+        <div className="basis-[30%] ">
+          <BuyCard texts={itemKey.texts} price={itemKey.currentPrice} off={itemKey.off} images={itemKey.images}/>
         </div>
-        <div className="">scss</div>
-      </div> } */}
+        <div className="basis-[70%] ">
+          <div className="flex flex-row gap-5 justify-start">
+            <IconBadge  icon={<FontAwesomeIcon size="2x" icon={faHeart} className="text-danger"/>}  color="danger"/>
+            <IconBadge  icon={<FontAwesomeIcon size="2x" icon={faShare} className="text-info"/>}  color="danger"/>
+            <IconBadge  icon={<FontAwesomeIcon size="2x" icon={faComment} className="text-success"/>}  color="danger"/>
+            <IconBadge  icon={<FontAwesomeIcon size="2x" icon={faBell} className="text-warning"/>}  color="danger"/>
+            <IconBadge  icon={<FontAwesomeIcon size="2x" icon={faWeightScale} className="text-gray text-lg"/>}  color="danger"/>
+          </div>
+        </div>
+      </div> 
+      </React.Fragment>
+      }
     </MainLayout>
   )
 }
