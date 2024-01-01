@@ -20,12 +20,12 @@ const ProductCard = ({product}) => {
       }
   return (
     <Link href={`/${product.id}/productpage`}>
-    <div className='h-[500px] w-[300px] mb-5 relative bg-light'>
+    <div className='h-[500px] w-[300px] mb-5 relative bg-light shadow-xl rounded-xl'>
         {product.number !== 0 ? (<Timer minutesOff='999' tag="فروش ویژه"/>) : <div className='h-[47px]'></div> }
         <div dir='rtl' className=' flex flex-row justify-start gap-3 items-center mt-1 mr-5'>
         {product.colors.map((color,index) => (<span key={color+ index} className={['rounded-full w-[20px] h-[20px]',` bg-[`,`${color}`,']'].join("")}></span>))}
         </div>
-        <div className='w-full h-[300px] mt-n2'>
+        <div className='w-full h-[300px] mt-n2 px-4'>
             {product.image}
         </div>
         <div className='font-vazir font-thin mt-3 mr-3 text-text'>

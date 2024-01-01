@@ -46,7 +46,7 @@ module.exports = {
       danger:"#CD1818",
       text:"#374259",
       warning:"#FF9130",
-      light:"#E8F6EF",
+      light:"#FFF",
       white:colors.white
     }
   },

@@ -15,7 +15,7 @@ const Products = ({ productsList }) => {
 
   return (
     <>
-      <div className="grid md:grid-cols-2 xl:grid-cols-3 grid-cols-1 gap-3 mt-5 ">
+      <div className="grid md:grid-cols-2 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-1 mt-5 ">
         {productsList.slice(pageTraverse.current,pageTraverse.current+15).map((item, index) => (
           <ProductCard key={`${item} + listKey`} product={item}/>
         ))}
